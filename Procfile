@@ -1,1 +1,1 @@
-web: java -cp target/classes/:target/dependency/* Clima
+web: java -cp out/classes/:out/dependency/* Clima
