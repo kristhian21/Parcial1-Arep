@@ -1,4 +1,4 @@
-package main.java.Clima;
+package main.java.clima;
 
 import java.net.*;
 import java.io.*;
