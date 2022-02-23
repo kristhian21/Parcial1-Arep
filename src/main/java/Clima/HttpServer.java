@@ -65,7 +65,6 @@ public class HttpServer {
                     "                <input type=\"submit\" value=\"Submit\">"
                     + "</body>"
                     + "</html>" + inputLine;
-
             out.println(outputLine);
             out.close();
             in.close();
