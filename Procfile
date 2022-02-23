@@ -1,1 +1,1 @@
-web: java -cp target/classes/:target/dependency/* AppClima.clima.HttpServer
+web: java -cp target/classes/:target/dependency/* clima.HttpServer
